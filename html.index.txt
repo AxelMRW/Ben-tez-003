@@ -1,0 +1,21 @@
+< IDOCTYPE html>
+chtml lang - "es">
+‹head><meta charset = "utf-8">
+‹meta name - "description" content - " Mi primera pagina web">
+‹title> Mi primera pagina web </title>
+‹meta name - "author"
+content =" Axel Benítez Zamora  ">
+‹meta name - - keywords" content - " aplicaciones, web,utez, edu,mx, pagina, java"› </head>
+‹body >
+‹header›
+‹h1> hola mundo, hola apps web </h1> <h2> mi primera pagina web</h2>
+</header>
+(main>
+‹pstrong> primera practica de ejemplo de aplicaciones web‹/p›</strong>
+<ing src - "Instagram" att "Instagram">
+‹/main>
+‹ footer>
+derechos reservados &c copy;2024 Axel Benítez Zamora </p>
+‹/footer›
+</body>
+</html>
